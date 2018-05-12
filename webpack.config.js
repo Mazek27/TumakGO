@@ -16,7 +16,7 @@ module.exports = {
         entrypoints: false
     },
 
-    devtool: "source-map",
+    devtool: "evan",
 
     resolve: {
         extensions: [".ts", ".tsx", ".js", ".json"]
